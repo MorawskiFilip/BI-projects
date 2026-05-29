@@ -1,19 +1,25 @@
-# BI Portfolio – Filip Morawski
+# HR Attrition Dashboard
 
-## Projects
+## 📌 Overview
+Dashboard focused on analyzing employee attrition and identifying key drivers behind turnover.
 
-### 1. Financial Performance Dashboard
-- Budget vs Actual analysis
-- Forecasting & rolling averages
-- Dynamic KPI switching
+---
 
-### 2. HR Attrition Analysis
-- Employee turnover insights
-- Department & tenure analysis
+## 🚀 Key Features
+- Attrition rate analysis
+- Breakdown by department, tenure, and overtime
+- Interactive filtering
 
-### 3. Steam API Dashboard
-- Data extraction from API (~50k rows)
-- Product performance visualization
+---
 
-## Tools
-Power BI | SQL | DAX | Excel
+## 🧠 Insights
+- Identification of high-risk employee groups
+- Impact of overtime and tenure on attrition
+
+---
+
+## 🛠️ Technical Details
+- Data transformation in Power Query
+- DAX measures for attrition KPIs
+
+---
