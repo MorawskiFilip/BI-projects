@@ -1,19 +1,35 @@
-# BI Portfolio – Filip Morawski
+# Financial Performance Dashboard
 
-## Projects
+## 📌 Overview
+This dashboard analyzes financial performance by comparing Actual vs Budget across time, products, and segments.
 
-### 1. Financial Performance Dashboard
-- Budget vs Actual analysis
-- Forecasting & rolling averages
-- Dynamic KPI switching
+The goal was to simulate a real business scenario: tracking performance and identifying under/over-performing areas.
 
-### 2. HR Attrition Analysis
-- Employee turnover insights
-- Department & tenure analysis
+---
 
-### 3. Steam API Dashboard
-- Data extraction from API (~50k rows)
-- Product performance visualization
+## 🚀 Key Features
+- Dynamic metric switch (Revenue / Profit / Margin %)
+- KPI cards with variance indicators
+- Budget vs Actual comparison
+- Time series forecasting
+- Rolling average trend analysis
+- Interactive slicers (Date, Country, Segment, Product)
 
-## Tools
-Power BI | SQL | DAX | Excel
+---
+
+## 🧠 Key Insights
+- Quick identification of underperforming products
+- Margin fluctuations over time
+- Variance trends across segments
+
+---
+
+## 🛠️ Technical Details
+- Data modeling using star schema approach
+- Advanced DAX measures:
+  - Variance (Actual vs Budget)
+  - Rolling averages
+  - Dynamic measure selection (SWITCH)
+- Forecasting using built-in Power BI analytics
+
+---
