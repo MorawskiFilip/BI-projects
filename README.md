@@ -1,19 +1,26 @@
-# BI Portfolio – Filip Morawski
+# Steam API Dashboard
 
-## Projects
+## 📌 Overview
+Dashboard built using external API data (~50k rows) to analyze product performance.
 
-### 1. Financial Performance Dashboard
-- Budget vs Actual analysis
-- Forecasting & rolling averages
-- Dynamic KPI switching
+---
 
-### 2. HR Attrition Analysis
-- Employee turnover insights
-- Department & tenure analysis
+## 🚀 Key Features
+- API data extraction and transformation
+- Data modeling and cleanup
+- Performance metrics visualization
 
-### 3. Steam API Dashboard
-- Data extraction from API (~50k rows)
-- Product performance visualization
+---
 
-## Tools
-Power BI | SQL | DAX | Excel
+## 🧠 Insights
+- Identification of top-performing products
+- Trends in user engagement
+
+---
+
+## 🛠️ Technical Details
+- API data ingestion
+- Power Query transformations
+- DAX measures for KPIs
+
+---
